@@ -1,0 +1,12 @@
+@import 'bootstrap';
+
+.list-group-item{
+    display: grid;
+    grid-template-columns: 1fr 250px;
+    align-items: center;
+}
+
+.orgButton{
+    display: flex;
+    flex-direction: row;
+}
